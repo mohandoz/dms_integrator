@@ -1,0 +1,9 @@
+fastapi==0.87.0
+fastapi-users==10.2.1
+fastapi-users-db-beanie==1.1.2
+httpx==0.23.1
+beanie==1.13.1
+loguru==0.6.0
+pytest==7.2.0
+redis==4.3.5
+uvicorn==0.20.0
