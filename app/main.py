@@ -1,5 +1,6 @@
 import uvicorn
 from api.api_v1.api import router as api_router_v1
+from events import init_db
 from fastapi import FastAPI
 from project.settings import settings
 
@@ -16,6 +17,11 @@ def get_application() -> FastAPI:
 
 
 app = get_application()
+
+
+@app.on_event("startup")
+async def on_startup():
+    await init_db()
 
 
 if __name__ == "__main__":
