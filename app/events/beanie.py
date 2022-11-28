@@ -1,9 +1,11 @@
 from beanie import init_beanie
-from db import db
+from db import UserDoc, db
 
 
 async def init_db():
     await init_beanie(
         database=db,
-        document_models=[],
+        document_models=[
+            UserDoc,
+        ],
     )
