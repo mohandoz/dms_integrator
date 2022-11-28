@@ -4,7 +4,7 @@ from typing import Any, Dict
 
 from pydantic import BaseSettings
 
-SETTINGS_PATH = Path("settings.json")
+SETTINGS_PATH = Path(Path.cwd() / "settings.json")
 
 if not SETTINGS_PATH.exists():
     raise FileNotFoundError("Settings file not found in path.")
