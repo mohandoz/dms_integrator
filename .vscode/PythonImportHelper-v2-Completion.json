@@ -1,0 +1,481 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticObjectId",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticObjectId",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "init_beanie",
+        "importPath": "beanie",
+        "description": "beanie",
+        "isExtraImport": true,
+        "detail": "beanie",
+        "documentation": {}
+    },
+    {
+        "label": "UserDoc",
+        "importPath": "db.user",
+        "description": "db.user",
+        "isExtraImport": true,
+        "detail": "db.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_manager",
+        "importPath": "db.user",
+        "description": "db.user",
+        "isExtraImport": true,
+        "detail": "db.user",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPIUsers",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationBackend",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "BearerTransport",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "JWTStrategy",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "isExtraImport": true,
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "isExtraImport": true,
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "isExtraImport": true,
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "motor.motor_asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BeanieBaseUser",
+        "importPath": "fastapi_users.db",
+        "description": "fastapi_users.db",
+        "isExtraImport": true,
+        "detail": "fastapi_users.db",
+        "documentation": {}
+    },
+    {
+        "label": "BeanieUserDatabase",
+        "importPath": "fastapi_users.db",
+        "description": "fastapi_users.db",
+        "isExtraImport": true,
+        "detail": "fastapi_users.db",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectIDIDMixin",
+        "importPath": "fastapi_users.db",
+        "description": "fastapi_users.db",
+        "isExtraImport": true,
+        "detail": "fastapi_users.db",
+        "documentation": {}
+    },
+    {
+        "label": "BaseOAuthAccount",
+        "importPath": "fastapi_users.db",
+        "description": "fastapi_users.db",
+        "isExtraImport": true,
+        "detail": "fastapi_users.db",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "fastapi_users",
+        "importPath": "auth",
+        "description": "auth",
+        "isExtraImport": true,
+        "detail": "auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserDoc",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.api_v1.api",
+        "description": "api.api_v1.api",
+        "isExtraImport": true,
+        "detail": "api.api_v1.api",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "events",
+        "description": "events",
+        "isExtraImport": true,
+        "detail": "events",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.api_v1.api",
+        "description": "app.api.api_v1.api",
+        "peekOfCode": "router = APIRouter()",
+        "detail": "app.api.api_v1.api",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_strategy",
+        "kind": 2,
+        "importPath": "app.auth.jwt_auth",
+        "description": "app.auth.jwt_auth",
+        "peekOfCode": "def get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(\n        secret=settings.JWT_SECRET, lifetime_seconds=settings.JWT_LIFE_TIME_SECONDS\n    )\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=bearer_transport,\n    get_strategy=get_jwt_strategy,\n)\nfastapi_users = FastAPIUsers[UserDoc, PydanticObjectId](",
+        "detail": "app.auth.jwt_auth",
+        "documentation": {}
+    },
+    {
+        "label": "bearer_transport",
+        "kind": 5,
+        "importPath": "app.auth.jwt_auth",
+        "description": "app.auth.jwt_auth",
+        "peekOfCode": "bearer_transport = BearerTransport(tokenUrl=\"/api/v1/auth/jwt/login\")\ndef get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(\n        secret=settings.JWT_SECRET, lifetime_seconds=settings.JWT_LIFE_TIME_SECONDS\n    )\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=bearer_transport,\n    get_strategy=get_jwt_strategy,\n)",
+        "detail": "app.auth.jwt_auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_backend",
+        "kind": 5,
+        "importPath": "app.auth.jwt_auth",
+        "description": "app.auth.jwt_auth",
+        "peekOfCode": "auth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=bearer_transport,\n    get_strategy=get_jwt_strategy,\n)\nfastapi_users = FastAPIUsers[UserDoc, PydanticObjectId](\n    get_user_manager, [auth_backend]\n)",
+        "detail": "app.auth.jwt_auth",
+        "documentation": {}
+    },
+    {
+        "label": "fastapi_users",
+        "kind": 5,
+        "importPath": "app.auth.jwt_auth",
+        "description": "app.auth.jwt_auth",
+        "peekOfCode": "fastapi_users = FastAPIUsers[UserDoc, PydanticObjectId](\n    get_user_manager, [auth_backend]\n)",
+        "detail": "app.auth.jwt_auth",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.db.client",
+        "description": "app.db.client",
+        "peekOfCode": "DATABASE_URL = settings.MONGODB_URL\nclient = motor.motor_asyncio.AsyncIOMotorClient(\n    DATABASE_URL,\n    minPoolSize=settings.MIN_CONNECTIONS_COUNT,\n    maxPoolSize=settings.MAX_CONNECTIONS_COUNT,\n    uuidRepresentation=\"standard\",\n)\ndb = client[settings.MONGODB_NAME]",
+        "detail": "app.db.client",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app.db.client",
+        "description": "app.db.client",
+        "peekOfCode": "client = motor.motor_asyncio.AsyncIOMotorClient(\n    DATABASE_URL,\n    minPoolSize=settings.MIN_CONNECTIONS_COUNT,\n    maxPoolSize=settings.MAX_CONNECTIONS_COUNT,\n    uuidRepresentation=\"standard\",\n)\ndb = client[settings.MONGODB_NAME]",
+        "detail": "app.db.client",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.db.client",
+        "description": "app.db.client",
+        "peekOfCode": "db = client[settings.MONGODB_NAME]",
+        "detail": "app.db.client",
+        "documentation": {}
+    },
+    {
+        "label": "UserDoc",
+        "kind": 6,
+        "importPath": "app.db.user",
+        "description": "app.db.user",
+        "peekOfCode": "class UserDoc(BeanieBaseUser[PydanticObjectId], UserModel):\n    class Settings(BeanieBaseUser.Settings):\n        name = \"user\"\nclass UserManager(ObjectIDIDMixin, BaseUserManager[UserDoc, PydanticObjectId]):\n    async def on_after_register(self, user: UserDoc, request: Optional[Request] = None):\n        print(f\"User {user.id} has registered.\")\n    async def on_after_forgot_password(\n        self, user: UserDoc, token: str, request: Optional[Request] = None\n    ):\n        print(f\"User {user.id} has forgot their password. Reset token: {token}\")",
+        "detail": "app.db.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "app.db.user",
+        "description": "app.db.user",
+        "peekOfCode": "class UserManager(ObjectIDIDMixin, BaseUserManager[UserDoc, PydanticObjectId]):\n    async def on_after_register(self, user: UserDoc, request: Optional[Request] = None):\n        print(f\"User {user.id} has registered.\")\n    async def on_after_forgot_password(\n        self, user: UserDoc, token: str, request: Optional[Request] = None\n    ):\n        print(f\"User {user.id} has forgot their password. Reset token: {token}\")\n    async def on_after_request_verify(\n        self, user: UserDoc, token: str, request: Optional[Request] = None\n    ):",
+        "detail": "app.db.user",
+        "documentation": {}
+    },
+    {
+        "label": "current_active_admin",
+        "kind": 5,
+        "importPath": "app.dependencies.auth_dep",
+        "description": "app.dependencies.auth_dep",
+        "peekOfCode": "current_active_admin = fastapi_users.current_user(active=True, admin=True)\ncurrent_active_user = fastapi_users.current_user(active=True)",
+        "detail": "app.dependencies.auth_dep",
+        "documentation": {}
+    },
+    {
+        "label": "current_active_user",
+        "kind": 5,
+        "importPath": "app.dependencies.auth_dep",
+        "description": "app.dependencies.auth_dep",
+        "peekOfCode": "current_active_user = fastapi_users.current_user(active=True)",
+        "detail": "app.dependencies.auth_dep",
+        "documentation": {}
+    },
+    {
+        "label": "OAuthAccount",
+        "kind": 6,
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "peekOfCode": "class OAuthAccount(BaseOAuthAccount):\n    pass\nclass UserModel(BaseModel):\n    oauth_accounts: list[OAuthAccount] = Field(default_factory=list)",
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "peekOfCode": "class UserModel(BaseModel):\n    oauth_accounts: list[OAuthAccount] = Field(default_factory=list)",
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.project.load_settings",
+        "description": "app.project.load_settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    PROJECT_NAME: str = \"dms_integrator\"\n    API_PREFIX: str = \"/api\"\n    VERSION: str = \"0.1.0\"\n    DEBUG: bool = False\n    MONGODB_NAME: str\n    MONGODB_URL: str\n    SECRET_KEY: str\n    JWT_SECRET: str\n    JWT_LIFE_TIME_SECONDS: int = 3600",
+        "detail": "app.project.load_settings",
+        "documentation": {}
+    },
+    {
+        "label": "json_config_settings_source",
+        "kind": 2,
+        "importPath": "app.project.load_settings",
+        "description": "app.project.load_settings",
+        "peekOfCode": "def json_config_settings_source(settings: BaseSettings) -> Dict[str, Any]:\n    \"\"\"\n    A simple settings source that loads variables from a JSON file\n    at the project's root.\n    Here we happen to choose to use the `env_file_encoding` from Config\n    when reading `config.json`\n    \"\"\"\n    encoding = settings.__config__.env_file_encoding\n    return json.loads(Path(SETTINGS_PATH).read_text(encoding))\nclass Settings(BaseSettings):",
+        "detail": "app.project.load_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SETTINGS_PATH",
+        "kind": 5,
+        "importPath": "app.project.load_settings",
+        "description": "app.project.load_settings",
+        "peekOfCode": "SETTINGS_PATH = Path(Path.cwd() / \"settings.json\")\nif not SETTINGS_PATH.exists():\n    raise FileNotFoundError(\"Settings file not found in path.\")\ndef json_config_settings_source(settings: BaseSettings) -> Dict[str, Any]:\n    \"\"\"\n    A simple settings source that loads variables from a JSON file\n    at the project's root.\n    Here we happen to choose to use the `env_file_encoding` from Config\n    when reading `config.json`\n    \"\"\"",
+        "detail": "app.project.load_settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.project.settings",
+        "description": "app.project.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_application",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_application() -> FastAPI:\n    application = FastAPI(\n        title=settings.PROJECT_NAME, debug=settings.DEBUG, version=settings.VERSION\n    )\n    application.include_router(\n        api_router_v1,\n        prefix=settings.API_PREFIX,\n    )\n    return application\napp = get_application()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = get_application()\n@app.on_event(\"startup\")\nasync def on_startup():\n    await init_db()\nif __name__ == \"__main__\":\n    uvicorn.run(\"main:app\", host=\"0.0.0.0\", port=8080, reload=settings.DEBUG)",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
